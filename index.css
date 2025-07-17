@@ -15,20 +15,20 @@
 } */
 
 /* TEXT properties */
- p{
+ /* p{
     text-align: center;
     text-decoration: overline;
- }
+ } */
  /* h1
 {
 text-align: center;
 text-decoration: line-through;
 } */
-a{
-    text-decoration: none;
+/* a{
+    text-decoration: none; */
 
     /* font weight */
-}
+/* }
 #g1{
 font-weight:100;
 font-family: Arial, Helvetica, sans-serif;
@@ -44,4 +44,22 @@ font-family: Arial, Helvetica, sans-serif;
 #g4{
     font-weight:900;
     font-family: cursive;
+} */
+/* Units in css 
+Absolute units: Pixels
+*/
+#para1{
+    font-size: 45px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+#para2{
+    font-size: 55px;
+    text-transform: uppercase;
+
+}
+#para3{
+    font-size: 65px;
+    text-transform: uppercase;
+
 }

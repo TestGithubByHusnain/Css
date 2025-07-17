@@ -1,0 +1,17 @@
+/* Height and width */
+div{
+    height: 100px;
+    width: 50px;
+    background-color: red;
+}
+/* Border */
+button{
+    /* border-width: 30px;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 25px; */
+border: 20px solid aqua;
+border-radius: 50%;
+padding: 10px 20px;
+margin: 10px 20px;
+}
